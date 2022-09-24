@@ -11,11 +11,9 @@
   
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">Jack - Personal portfolio</h2>
+  <h2 align="center">Konamike - Personal portfolio</h2>
 
-  This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/jack-portfolio/"><strong>➥ Live Demo</strong></a>
+  This is a personal portfolio that will contain all my personal public data analysis projects. This is a beginner's attempt to learn on the field and from the masters in the field of data analysis and data science.
 
 </div>
 
