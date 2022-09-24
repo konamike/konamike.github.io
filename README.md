@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/konamike/konamike.github.io/blob/main/konamike-github.png" alt="konamike - data analyst, web developer, web engineer", width="450px">
+  <img src="https://github.com/konamike/konamike.github.io/blob/main/konamike-github.png" alt="konamike - data analyst, web developer, web engineer", width="850px">
   <p>
 
   This is a personal portfolio that will contain all my personal public data analysis projects. This is a beginner's attempt to learn on the field and from the masters in the field of data analysis and data science.
