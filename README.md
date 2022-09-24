@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://github.com/konamike/konamike.github.io/blob/main/konamike-github.png" alt="konamike - data analyst, web developer, web engineer">
   
  <h2 align="center">Konamike - Personal Portfolio</h2>
 
