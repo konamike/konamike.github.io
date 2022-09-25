@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/konamike/konamike.github.io/blob/main/Konamike%20Github%20Bannercopy.png?raw=true" align="center" style="width: 850px" height="350px" />
+<img src="https://github.com/konamike/konamike.github.io/blob/main/Konamike%20Banner.png?raw=true" align="center" style="width: 850px" height="350px" />
 </div>  
   
 
